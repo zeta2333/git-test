@@ -2,8 +2,7 @@ package usts.pycro.git;
 
 /**
  * @author Pycro
- * @Create 2023-03-18  13:31
- * @Description
+ * 2023-03-18  13:31
  * @version 1.0
  */
 public class GitTest {

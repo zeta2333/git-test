@@ -6,4 +6,7 @@ package usts.pycro.git;
  * 2023-03-18 16:16
  */
 public class TEst {
+    public static void main(String[] args) {
+        System.out.println("TEst.main");
+    }
 }
